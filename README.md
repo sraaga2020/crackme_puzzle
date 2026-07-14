@@ -15,17 +15,10 @@ Recover the hidden message.
 3. The final layer uses a simple historical cipher.
 4. Look at how characters change rather than trying random guesses.
 
-## Compile
+## Instructions
 
-gcc -g crackme.c -o crackme
-
-## Run
-
-./crackme
-
-## Suggested Tools
-
-- Ghidra
-- strings
-- Python
-- manual decoding
+1. Click the green **Code** button on this GitHub repository.
+2. Select **Download ZIP**.
+3. Extract the ZIP file.
+4. Open a terminal in the extracted repository folder.
+5. Run this command to start playing the puzzle: ./crackme
